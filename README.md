@@ -24,10 +24,10 @@ provided by the user:
 
 * -d [directory1] [directory2] ...  :   Loads the files contained in the
 directories into the model.
-* -f [file1] [file2] …   :   Loads the files into the model
-* -tdb [dataset]    :    Loads a Jena TDB dataset into the model
+* -f [file1] [file2] …   :   Loads the files into the model.
+* -tdb [dataset]    :    Loads a Jena TDB dataset into the model.
 * -zipcode [start] [range]   :  Sets the starting value as well as the range
-for the generation of zipcodes
+for the generation of zipcodes.
 * -out [directory]   :    Sets the path of the directory in which the files
 are to be created.
 
